@@ -1,0 +1,45 @@
+.skills-ticker-wrapper {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.skills-ticker {
+  display: flex;
+  gap: 3rem;
+  animation: scroll-left 30s linear infinite;
+  padding: 1rem 0;
+}
+
+.skill-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 100px;
+}
+
+.skill-item img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.gray-bg {
+    background-color: rgb(209, 209, 209);
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 768px) {
+  .skills-ticker {
+    animation-duration: 5s; /* faster scroll on mobile */
+  }
+}

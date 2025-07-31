@@ -1,0 +1,21 @@
+.text-darkblue{
+    color: #1b3c53;
+}
+
+.bg-darkblue{
+    background-color: #1b3c53;
+}
+
+.bg-blueShade {
+    background-color: #58A0C8;
+}
+
+.btn-outline-custom {
+  color: #3E5F44;
+  border-color: #3E5F44;
+}
+
+.btn-outline-custom:hover {
+  background-color: #3E5F44;
+  color: white;
+}
