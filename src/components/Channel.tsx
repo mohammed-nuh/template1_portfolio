@@ -1,16 +1,15 @@
 function Channel() {
   return (
     <section className="my-5 animate__animated animate__fadeInUp px-3 text-center">
-      <h2 className="pt-5">Rapid Code (Channel)</h2>
+      <h2 className="pt-5">Channel Name</h2>
       <p>
-        I run a channel called <strong>Rapid Code</strong>, where I publish short, beginner-friendly
-        videos explaining frontend concepts, coding mini-projects, and tips for aspiring developers.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, unde dolores, expedita tempore repellat excepturi assumenda amet laudantium aperiam.
       </p>
 
       {/* Long video */}
       <div className="ratio ratio-16x9 my-4" style={{ maxWidth: "1000px", margin: "0 auto" }}>
         <iframe
-          src="https://www.youtube.com/embed/xBP0UPXzX8s"
+          src="https://www.youtube.com/embed/XGXySm37MPI"
           title="Rapid Code Long Video"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
@@ -21,10 +20,10 @@ function Channel() {
       <div className="container px-0">
         <div className="row g-2">
           {[
-            "Y-KnGuGw8CA",
-            "9Bv9mA2ryUM",
-            "vbRh6Ca1kUo",
-            "D6Z1hY5J0WA",
+            "wskpiM4voNk",
+            "wskpiM4voNk",
+            "wskpiM4voNk",
+            "wskpiM4voNk",
           ].map((id, i) => (
             <div key={i} className="col-6 col-md-3 d-flex justify-content-center">
               <iframe

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import nuhPic from "../assets/nuh_pic.jpg";
+import yourPic from "../assets/your_pic.png"
 
 function Header() {
   const [expanded, setExpanded] = useState(false);
@@ -60,13 +60,13 @@ function Header() {
         <div className="container">
           <div className="d-flex flex-column align-items-center text-center">
             <img
-              src={nuhPic}
-              alt="Nuh"
+              src={yourPic}
+              alt="Your Pic"
               className="rounded-circle shadow mb-3"
               style={{ width: "200px", height: "200px", objectFit: "cover" }}
             />
-            <h1 className="text-light fw-bold mb-1">Mohammed Nuh</h1>
-            <p className="text-light lead mb-0">Frontend React Developer</p>
+            <h1 className="text-light fw-bold mb-1">Your Name</h1>
+            <p className="text-light lead mb-0">Your Occupation</p>
           </div>
         </div>
       </header>

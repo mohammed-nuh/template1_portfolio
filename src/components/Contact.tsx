@@ -19,7 +19,8 @@ function Contact() {
         <div className="d-flex justify-content-center gap-3 flex-wrap">
           {/* Email Button */}
           <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammednuhabuhuseina@gmail.com"
+            href="#" 
+            onClick={(e) => e.preventDefault()}
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-danger btn-lg px-4 d-flex align-items-center gap-2 email-btn"
@@ -30,7 +31,8 @@ function Contact() {
 
           {/* WhatsApp Button */}
           <a
-            href="https://wa.me/919876543210?text=Hi%2C%20I%20found%20your%20portfolio%20and%20wanted%20to%20connect."
+            href="#"
+            onClick={(e) => e.preventDefault()}
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-success btn-lg px-4 d-flex align-items-center gap-2 whatsapp-btn"

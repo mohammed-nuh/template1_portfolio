@@ -19,3 +19,15 @@
   background-color: #3E5F44;
   color: white;
 }
+
+.btn-custom {
+  color: white;
+  background-color: #1b3c53;
+}
+
+.btn-custom:hover {
+  color: white;
+  background-color: #1b3c53;
+}
+
+

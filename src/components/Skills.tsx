@@ -2,18 +2,18 @@ import './Skills.css'; // we'll create this for animation
 
 function Skills() {
   const skills = [
-    { name: "React JS", icon: "react.png" },
-    { name: "JavaScript", icon: "js.webp" },
-    { name: "Python", icon: "python.png" },
-    { name: "Web Designing", icon: "web.png" },
-    { name: "Tailwind", icon: "tailwind.png" },
-    { name: "Bootstrap", icon: "bootstrap.png" },
-    { name: "C", icon: "c.png" },
-    { name: "GitHub", icon: "github.png" },
-    { name: "C++", icon: "cpp.png" },
-    { name: "Java", icon: "java.webp" },
-    { name: "Spring Boot", icon: "springboot.svg" },
-    { name: "Angular JS", icon: "angular.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" },
+    { name: "Your Skill", icon: "skill.png" }
   ];
 
   return (

@@ -3,7 +3,8 @@ function Footer() {
     <footer className="bg-dark text-white text-center py-4">
       <div className="mb-3">
         <a
-          href="https://www.linkedin.com/in/mohammednuh/"
+          href="#"
+          onClick={(e) => e.preventDefault()}
           target="_blank"
           rel="noopener noreferrer"
           className="text-white mx-2"
@@ -11,7 +12,7 @@ function Footer() {
           <i className="bi bi-linkedin fs-4"></i>
         </a>
         <a
-          href="https://www.youtube.com/@rapidcodeyt"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white mx-2"
@@ -19,7 +20,8 @@ function Footer() {
           <i className="bi bi-youtube fs-4"></i>
         </a>
         <a
-          href="https://x.com/Nuh_Abuhuseina"
+          href="#"
+          onClick={(e) => e.preventDefault()}
           target="_blank"
           rel="noopener noreferrer"
           className="text-white mx-2"
@@ -27,7 +29,8 @@ function Footer() {
           <i className="bi bi-twitter-x fs-4"></i>
         </a>
         <a
-          href="https://www.facebook.com/mohammed.nuh.100"
+          href="#"
+          onClick={(e) => e.preventDefault()}
           target="_blank"
           rel="noopener noreferrer"
           className="text-white mx-2"
@@ -35,7 +38,8 @@ function Footer() {
           <i className="bi bi-facebook fs-4"></i>
         </a>
         <a
-          href="https://www.instagram.com/rapid_code_official/"
+          href="#"
+          onClick={(e) => e.preventDefault()}
           target="_blank"
           rel="noopener noreferrer"
           className="text-white mx-2"
@@ -43,7 +47,7 @@ function Footer() {
           <i className="bi bi-instagram fs-4"></i>
         </a>
       </div>
-      <p className="mb-0">&copy; 2025 Mohammed Nuh Abuhuseina</p>
+      <p className="mb-0">&copy; 2025 Your Name</p>
     </footer>
   );
 }

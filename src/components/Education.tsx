@@ -38,11 +38,11 @@ function Education() {
               className="rounded-circle bg-darkblue mx-auto mb-3"
               style={{ width: 20, height: 20 }}
             ></div>
-            <h6 className="mb-1">ANAND ASHRAM CONVENT</h6>
-            <small>(June 2021 – Mar 2022)</small>
+            <h6 className="mb-1">Your High School Name</h6>
+            <small>(Start Date – End Date)</small>
             <div className="d-flex justify-content-center gap-2 mt-1">
               <span className="badge rounded-pill bg-darkblue text-white px-3 py-2">Grade 10</span>
-              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">98.72%</span>
+              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">XX.XX%</span>
             </div>
           </div>
 
@@ -52,11 +52,11 @@ function Education() {
               className="rounded-circle bg-darkblue mx-auto mb-3"
               style={{ width: 20, height: 20 }}
             ></div>
-            <h6 className="mb-1">Pace International</h6>
-            <small>(Sept 2022 – Mar 2024)</small>
+            <h6 className="mb-1">Your Pre University Name</h6>
+            <small>(Start Date – End Date)</small>
             <div className="d-flex justify-content-center gap-2 mt-1">
               <span className="badge rounded-pill bg-darkblue text-white px-3 py-2">Grade 12</span>
-              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">95.4%</span>
+              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">XX.XX%</span>
             </div>
           </div>
 
@@ -66,11 +66,11 @@ function Education() {
               className="rounded-circle bg-darkblue mx-auto mb-3"
               style={{ width: 20, height: 20 }}
             ></div>
-            <h6 className="mb-1">Amity Online</h6>
-            <small>(July 2024 – Present)</small>
+            <h6 className="mb-1">Your University Name</h6>
+            <small>(Start Date – End Date)</small>
             <div className="d-flex justify-content-center gap-2 mt-1">
-              <span className="badge rounded-pill bg-darkblue text-white px-3 py-2">BCA</span>
-              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">CGPA 9.64</span>
+              <span className="badge rounded-pill bg-darkblue text-white px-3 py-2">Course</span>
+              <span className="badge rounded-pill bg-light text-dark border px-3 py-2">CGPA X.XX</span>
             </div>
           </div>
         </div>

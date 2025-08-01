@@ -16,46 +16,46 @@ const Projects = forwardRef<HTMLDivElement>((_, ref) => {
 
   const projects: Project[] = [
     {
-      title: "Voice Based Cart Adding System",
-      video: "project1.mp4",
-      short: "Add products to cart using voice commands.",
+      title: "Title of Project 1",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "An innovative voice-controlled system for hands-free shopping where users can speak to add products to their cart. Built with React and voice recognition APIs.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
     {
-      title: "Ecommerce App",
-      video: "project2.mp4",
-      short: "A full-featured ecommerce frontend.",
+      title: "Title of Project 2",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "A responsive ecommerce app with product listings, cart, and checkout flow. Designed with Bootstrap and managed with React states.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
     {
-      title: "Todo List App",
-      video: "project3.mp4",
-      short: "Simple and effective todo manager.",
+      title: "Title of Project 3",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "A React-based todo app to add, delete, and filter tasks. Designed with clean UI and local storage support for persistent data.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
     {
-      title: "Theme Toggler App",
-      video: "project4.mp4",
-      short: "Switch between light and dark themes.",
+      title: "Title of Project 4",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "A React app that lets users toggle between themes using state management. It remembers user preference using localStorage.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
     {
-      title: "Travel And Tourism",
-      video: "project5.mp4",
-      short: "Explore destinations with this tourism site.",
+      title: "Title of Project 5",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "A travel website that displays tourist spots with visuals and brief guides. Built using Bootstrap and React routing.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
     {
-      title: "Language Switcher App",
-      video: "project6.mp4",
-      short: "Dynamic multi-language interface.",
+      title: "Title of Project 6",
+      video: "your_project_video.mp4",
+      short: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       full:
-        "React app that supports multiple languages using i18next. Users can switch languages instantly with preserved content state.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     },
   ];
 
